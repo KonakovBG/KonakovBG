@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Svetoslav and I’m currently learning HTML, CSS and PHP. I’m also trying to create wordpress themes. Seeking perfection is in my nature and one day i aspire to be a Full Stack Developer. 
+
+"It’s not about the destination, it’s the journey!"🔭
+
 <!--
 **KonakovBG/KonakovBG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
